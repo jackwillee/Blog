@@ -1,0 +1,1 @@
+This my first attempt on a solo rails project I will be building a blog application with the ability to create comments
